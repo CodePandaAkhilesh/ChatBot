@@ -2,9 +2,7 @@
 
 NovaChat is a sleek, Gemini-powered chatbot web app built with **HTML**, **CSS**, and **JavaScript**. It offers an interactive conversation experience with real-time responses using the **Google Gemini API**.
 
-## 🌐 Live Demo
-
-> Add your deployed link here (e.g., Vercel, Netlify, GitHub Pages)
+## 🌐 Live Demo : [https://contact-us-page-eight.vercel.app/]
 
 ---
 
